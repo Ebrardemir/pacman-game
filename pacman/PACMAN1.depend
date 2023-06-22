@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1684610396 source:c:\users\ebrar\desktop\a\pacman1\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<SDL2/SDL.h>
+
+1684675810 source:c:\users\ebrar\desktop\210229029_zeynep_ebrar_demir\pacman1\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<SDL2/SDL.h>
+
+1684828052 source:c:\users\ebrar\desktop\210229029_zeynep_ebrar_demir\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<SDL2/SDL.h>
+
